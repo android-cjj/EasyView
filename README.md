@@ -4,11 +4,11 @@ EasyView
 A simple view like cardView
 ----------------------------------------------------------------------------
 
-![](http://bbs.aiyingli.com/data/attachment/forum/201505/08/091228y9vtqezhhi25w1ly.png)
+![](http://www.apkbus.com/data/attachment/forum/201505/08/093236kjqjkjk55x656r5i.png)
 
-![](http://bbs.aiyingli.com/data/attachment/forum/201505/08/091231ni4e4ktuenu2ng84.png)
+![](http://www.apkbus.com/data/attachment/forum/201505/08/093238qrhbq6gtyalanh4o.png)
 
-![](http://bbs.aiyingli.com/data/attachment/forum/201505/08/091232p3t4crvnv93cr6kb.png)
+![](http://www.apkbus.com/data/attachment/forum/201505/08/093239ypy3oxoymdyphhm9.png)
 
-![](http://bbs.aiyingli.com/data/attachment/forum/201505/08/091235t9vve8zmj8va98vv.png)
+![](http://www.apkbus.com/data/attachment/forum/201505/08/093242be8666o2286a6xdf.png)
 
