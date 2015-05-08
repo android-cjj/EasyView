@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\cjj\easyView\EasyView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="F:\cjj\easyView\EasyView\app\build\intermediates\pre-dexed\debug\classes-d28c777cd6403de9e1d35955c913f50a3ee434da.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-77d497fd907c177302a84c7c6fbe2388f9b7c0be.jar" />
+    </item>
+    <item
+        jar="F:\cjj\easyView\EasyView\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\cjj\easyView\EasyView\app\build\intermediates\pre-dexed\debug\classes-5723f7d194404aef4452aaf47080a9a8542efbce.jar" />
+    </item>
+    <item
+        jar="D:\as\sdk-install\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-e4ab783d2d94e1168e29bdd2959cb4ed41b637af.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\ShareSDK-Wechat-2.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="db556d17b758b41b1a0fd084e60e1ac6657a7486">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.5.9-91853130e94acbae08c33b097ee21c73f856e53f.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\ShareSDK-Core-2.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fde3c1b2ff5e009f98fb65437a299a659ed25d4">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.5.9-feecf1d89933cd791f452a3f7a06fc3481f95178.jar" />
+    </item>
+    <item
+        jar="F:\cjj\easyView\EasyView\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\cjj\easyView\EasyView\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-0afe48596793bb77956747e95adc2644d0273f0a.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\ShareSDK-Wechat-Moments-2.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f0d907301d20b3ad7e61e88ead5b34f8dd68ea8">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.5.9-99522fd79fa29519a35dd63174005df5ee0a71d3.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\classes-bdb86dfe5a5a2d5256c50b0d5334f595b443c2c4.jar" />
+    </item>
+    <item
+        jar="F:\cjj\easyView\EasyView\app\build\intermediates\exploded-aar\EasyView\EasyViewLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c3ae73b6ad7cf5e16e070ee734ee4ba5e0c56bd2">
+        <dex dex="F:\cjj\easyView\EasyView\app\build\intermediates\pre-dexed\debug\classes-ff8e8dd727f353c324c91960f793dd341b09caf0.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\classes-9ffb66b2d7787160cb14d19872eacf8862820464.jar" />
+    </item>
+    <item
+        jar="F:\cjj\easyView\EasyView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="F:\cjj\easyView\EasyView\app\build\intermediates\pre-dexed\debug\classes-1efe031e78392fd251147d075a761c51d3be85e1.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\classes-4f7d1fc878ab6a4dc298210904cfaa5730a12070.jar" />
+    </item>
+    <item
+        jar="F:\cjj\easyView\EasyView\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="F:\cjj\easyView\EasyView\app\build\intermediates\pre-dexed\debug\classes-be55bb9c604312f7e55e6fff52a393472c54ba5d.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\ShareSDK-QZone-2.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aebfa8c34e3681ff6edf4d9a11164270f9fd0c">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.5.9-3a999eb4350c2486281a844eeb2881b14c694763.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\ShareSDK-Wechat-Core-2.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb0cd1cf28af913aea75ee8a26640e059501388b">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.5.9-47ebe384c79b14d3fc92707519e093066bcc2bdb.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\ShareSDK-Wechat-Favorite-2.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b262cb4e3d6a95eaf6ea464ba8c8c9800003fda9">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.5.9-c91c8218e60265b70e3fa51c93b5f603c840da83.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\mframework.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="25509058b34a5ee08dbf66e57078e3083735d200">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\mframework-0f50408a703e80cb29549e55af9d6db03f1d6f6f.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\classes-4918219766de92b1ae48cdfa7b275e7bd3bc28f5.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\ShareSDK-QQ-2.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2b40429dc201649d57dc0e615af0740a4005fb4">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.5.9-c394ffbaba0d1239b2f636fc15fccf5a229a1349.jar" />
+    </item>
+    <item
+        jar="F:\CartoonApp\app\libs\libs\ShareSDK-SinaWeibo-2.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a667d1b80d95c286d1a92bee2690c7e8f1f001">
+        <dex dex="F:\CartoonApp\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.5.9-dfea157d9d03571f9a4e0c3fd2067dd7cd6a058f.jar" />
+    </item>
+
+</items>

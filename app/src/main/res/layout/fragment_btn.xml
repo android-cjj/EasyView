@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cjj="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        cjj:shape="oval"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <Button
+            android:layout_width="78dp"
+            android:layout_height="78dp"
+            android:padding="16dp"
+            android:text="C"
+            android:textColor="#9C27B0"
+            android:gravity="center"
+            android:background="@drawable/drawable_white"/>
+    </com.cjj.JJLayout>
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        cjj:shape="oval"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <Button
+            android:layout_width="78dp"
+            android:layout_height="78dp"
+            android:padding="16dp"
+            android:text="J"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:background="@drawable/drawable_red"/>
+    </com.cjj.JJLayout>
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        cjj:shape="oval"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <Button
+            android:layout_width="78dp"
+            android:layout_height="78dp"
+            android:padding="16dp"
+            android:text="J"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:background="@drawable/drawable_green"/>
+    </com.cjj.JJLayout>
+
+    <LinearLayout
+        android:layout_margin="20dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.cjj.JJLayout
+            android:layout_marginTop="20dp"
+            cjj:shape="oval"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <Button
+                android:layout_width="78dp"
+                android:layout_height="78dp"
+                android:padding="16dp"
+                android:text="C"
+                android:textColor="#9C27B0"
+                android:gravity="center"
+                android:background="@drawable/drawable_white"/>
+        </com.cjj.JJLayout>
+
+        <com.cjj.JJLayout
+            android:layout_marginTop="20dp"
+            cjj:shape="oval"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <Button
+                android:layout_width="78dp"
+                android:layout_height="78dp"
+                android:padding="16dp"
+                android:text="J"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:background="@drawable/drawable_red"/>
+        </com.cjj.JJLayout>
+
+        <com.cjj.JJLayout
+            android:layout_marginTop="20dp"
+            cjj:shape="oval"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <Button
+                android:layout_width="78dp"
+                android:layout_height="78dp"
+                android:padding="16dp"
+                android:text="J"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:background="@drawable/drawable_green"/>
+        </com.cjj.JJLayout>
+        </LinearLayout>
+
+
+
+</LinearLayout>

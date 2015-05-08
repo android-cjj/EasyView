@@ -1,0 +1,22 @@
+<resources>
+
+
+
+    <style name="AppTheme" parent="CjjTheme"></style>
+
+    <style name="CjjTheme" parent="Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- toolbar color-->
+        <item name="colorPrimary">@color/material_red</item>
+        <item name="colorPrimaryDark">@color/material_red_dark</item>
+        <item name="android:windowBackground">@color/material_bg</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+</resources>

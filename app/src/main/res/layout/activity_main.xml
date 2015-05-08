@@ -1,0 +1,114 @@
+<android.support.v4.widget.DrawerLayout
+    android:id="@+id/drawerlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary" ></android.support.v7.widget.Toolbar>
+
+        <com.cjj.easyview.custom.PagerSlidingTabStrip
+            android:id="@+id/slidingtab_layout"
+            android:background="?attr/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"></com.cjj.easyview.custom.PagerSlidingTabStrip>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <!--<ListView-->
+    <!--android:id="@+id/navdrawer"-->
+    <!--android:layout_width="@dimen/navdrawer_width"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_gravity="start"-->
+    <!--android:background="?attr/colorPrimaryDark"-->
+    <!--android:choiceMode="singleChoice"-->
+    <!--android:divider="@android:color/white"-->
+    <!--android:dividerHeight="1dp"-->
+    <!--android:drawSelectorOnTop="false"></ListView>-->
+
+    <RelativeLayout
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:layout_gravity="start"
+        android:layout_width="@dimen/navdrawer_width"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:id="@+id/iv_login_bg"
+            android:orientation="vertical"
+            android:background="@drawable/loinbg"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="180dp">
+
+            <Button
+                android:id="@+id/btn_login_qq"
+                android:layout_width="120dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/btn_login_select"
+                android:gravity="center"
+                android:text="QQ登录"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+            <Button
+                android:id="@+id/btn_login_weibo"
+                android:layout_width="120dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/btn_confirm_select"
+                android:gravity="center"
+                android:text="微博登录"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+            </LinearLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/iv_login_bg"
+        android:id="@+id/recyclever_drawer"
+        android:layout_width="@dimen/navdrawer_width"
+        android:layout_height="match_parent" />
+
+        <View
+            android:layout_above="@+id/setting"
+            android:layout_marginTop="4dp"
+            android:background="#aaaaaa"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"></View>
+
+      <TextView
+          android:id="@+id/setting"
+          android:textSize="18sp"
+          android:text="Android学习交流群：304243460"
+          android:layout_alignParentBottom="true"
+          android:drawablePadding="2dp"
+          android:layout_margin="10dp"
+          android:paddingLeft="10dp"
+          android:textColor="@color/black"
+          android:drawableLeft="@drawable/qqicon"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content" />
+
+
+    </RelativeLayout>
+
+</android.support.v4.widget.DrawerLayout>
+

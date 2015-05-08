@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cjj="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="人生若只如初见，何事秋风悲画扇。"
+            android:background="@android:color/white"
+            android:textColor="@android:color/black"
+           />
+        </com.cjj.JJLayout>
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <TextView
+            android:id="@+id/iv_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="曾经沧海难为水，除却巫山不是云。"
+            android:background="#FF5252"
+            android:textColor="@android:color/white"
+            />
+    </com.cjj.JJLayout>
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="忽如一夜春风来，千树万树梨花开。"
+            android:background="#03A9F4"
+            android:textColor="@android:color/white"
+            />
+    </com.cjj.JJLayout>
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="故人西辞黄鹤楼，烟花三月下扬州。"
+            android:background="#4CAF50"
+            android:textColor="@android:color/white"
+            />
+    </com.cjj.JJLayout>
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="寂寞空庭春欲晚，梨花满地不开门。"
+            android:background="#9C27B0"
+            android:textColor="@android:color/white"
+            />
+    </com.cjj.JJLayout>
+
+
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="山重水复疑无路，柳暗花明又一村。"
+            android:background="#FF9800"
+            android:textColor="@android:color/white"
+            />
+    </com.cjj.JJLayout>
+    <com.cjj.JJLayout
+        android:layout_marginTop="20dp"
+        cjj:shape="oval"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+    <TextView
+        android:layout_width="148dp"
+        android:layout_height="148dp"
+        android:padding="16dp"
+        android:text="山重水复"
+        android:textColor="#9C27B0"
+        android:gravity="center"
+        android:background="@drawable/drawable_white"/>
+    </com.cjj.JJLayout>
+
+
+</LinearLayout>
+    </ScrollView>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="material_red">#f44336</color>
+    <color name="material_red_dark">#d32f2f</color>
+    <color name="material_bg">#f3f3eb</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="toolbar_rexue">#f44336</color>
+    <color name="toolbar_xinfan">#4caf50</color>
+    <color name="toolbar_richang">#03a9f4</color>
+    <color name="toolbar_huaijiu">#ff9800</color>
+</resources>
